@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Senior software development engineer",
+    "organization": "Goole",
+    "startDate": "feb, 2025",
+    "endDate": "Present",
+    "location": "Takht Bhai Mardan",
+    "experiences": [
+      "Work on google gmail",
+      "Work with the google bard team"
+    ],
+    "imageSrc": "company/google.webp"
+  },
+  {
+    "id": 1,
+    "role": "Senior software development engineer",
+    "organization": "Goole",
+    "startDate": "feb, 2025",
+    "endDate": "Present",
+    "location": "Takht Bhai Mardan",
+    "experiences": [
+      "Work on google gmail",
+      "Work with the google bard team"
+    ],
+    "imageSrc": "company/google.webp"
+  },
+  {
+    "id": 1,
+    "role": "Senior software development engineer",
+    "organization": "Goole",
+    "startDate": "feb, 2025",
+    "endDate": "Present",
+    "location": "Takht Bhai Mardan",
+    "experiences": [
+      "Work on google gmail",
+      "Work with the google bard team"
+    ],
+    "imageSrc": "company/google.webp"
+  }
+]

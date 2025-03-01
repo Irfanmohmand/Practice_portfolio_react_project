@@ -1,0 +1,33 @@
+#imgColor {
+  animation: superman 3s infinite;
+}
+
+@keyframes superman {
+  0% {
+    border-color: blue;
+    transform: translate(0, 0px);
+    box-shadow: 10px 10px 100px 50px blue;
+  }
+
+  25% {
+    border-color: yellow;
+    box-shadow: 10px 10px 100px 50px yellow;
+  }
+
+  50% {
+    border-color: green;
+    transform: translate(0, 10px);
+    box-shadow: 10px 10px 100px 50px green;
+  }
+
+  75% {
+    border-color: orange;
+    box-shadow: 10px 10px 100px 50px orange;
+  }
+
+  0% {
+    border-color: pink;
+    transform: translate(0, 0px);
+    box-shadow: 10px 10px 100px 50px pink;
+  }
+}
