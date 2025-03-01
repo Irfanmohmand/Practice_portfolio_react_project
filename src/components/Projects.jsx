@@ -4,7 +4,7 @@ import projects from "./data/project.json";
 function Projects() {
   return (
     <>
-      <div className="project-section w-full flex justify-center my-10">
+      <div id='project' className="project-section w-full flex justify-center my-10">
         <div className="w-[80%] p-4 my-6">
           <h1 className='font-bold text-[2.5rem] text-white '>Projects</h1>
           <div className="projects-box flex gap-10 my-4 justify-center grid lg:grid-cols-3 md:grid-cols-3 grid-cols-1">

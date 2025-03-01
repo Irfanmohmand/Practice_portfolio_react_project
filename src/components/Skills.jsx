@@ -4,7 +4,7 @@ import skills from "./data/skills.json";
 function Skills() {
   return (
     <>
-      <div className="skills-section w-full min-h-[80vh] flex p-6 justify-center">
+      <div id='skills' className="skills-section w-full min-h-[80vh] flex p-6 justify-center">
         <div className="skills-content w-[90%] p-6 rounded-lg flex items-center flex-col">
           <h1 className="text-left w-full text-[2.5rem] px-20 text-white font-bold mb-6">Skills</h1>
 

@@ -6,7 +6,7 @@ import "../css/home.css";
 
 function Home() {
   return (
-    <div className="home-section mt-40">
+    <div id='home' className="home-section mt-40">
       <div className="home-boxes  w-full h-full grid md:grid-cols-2 grid-cols-1 place-items-center text-center p-6 gap-6">
 
         {/* Left Side */}

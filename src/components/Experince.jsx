@@ -4,7 +4,7 @@ import experience from "./data/experience.json";
 function Experience() {
   return (
     <>
-      <div className="experience-section flex justify-center p-6">
+      <div id='experience' className="experience-section flex justify-center p-6">
         <div className="experience-content mt-10 w-full max-w-[900px]">
           <h1 className='font-bold text-white text-3xl mb-6'>Experience</h1>
 

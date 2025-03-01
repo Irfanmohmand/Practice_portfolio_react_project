@@ -28,11 +28,11 @@ function Navbar() {
           className={`md:flex gap-10 transition-all duration-300 ${isOpen ? "flex flex-col absolute top-16 left-0 w-full bg-zinc-900 p-6" : "hidden md:flex"
             }`}
         >
-          <a href="#" className="hover:border-b-2 border-yellow-300">Home</a>
-          <a href="#" className="hover:border-b-2 border-yellow-300">Experience</a>
-          <a href="#" className="hover:border-b-2 border-yellow-300">Skills</a>
-          <a href="#" className="hover:border-b-2 border-yellow-300">Projects</a>
-          <a href="#" className="hover:border-b-2 border-yellow-300">Contact</a>
+          <a href="#home" className="hover:border-b-2 border-yellow-300">Home</a>
+          <a href="#experience" className="hover:border-b-2 border-yellow-300">Experience</a>
+          <a href="#skills" className="hover:border-b-2 border-yellow-300">Skills</a>
+          <a href="#project" className="hover:border-b-2 border-yellow-300">Projects</a>
+          <a href="#contact" className="hover:border-b-2 border-yellow-300">Contact</a>
         </div>
       </div>
     </nav>
